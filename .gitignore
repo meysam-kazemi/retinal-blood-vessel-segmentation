@@ -4,3 +4,15 @@ data/*
 # Unignore png datasets
 !data/Drive/train-png
 !data/Drive/test-png
+
+# Model checkpoints
+models/
+*.pth
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/

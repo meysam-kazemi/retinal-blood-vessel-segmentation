@@ -1,0 +1,28 @@
+# Core deep learning
+torch
+torchvision
+torchsummary
+
+# Medical imaging / models
+monai
+SimpleITK
+timm
+ttach
+
+# Image processing & augmentation
+opencv-python
+scikit-image
+albumentations
+Pillow
+imageio
+
+# Numerics, metrics & utilities
+numpy
+scipy
+scikit-learn
+matplotlib
+tqdm
+tensorboard
+
+# Demo app
+gradio
